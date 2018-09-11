@@ -9,9 +9,7 @@
 
 #### 安装教程
 
-1. 使用 python3 安装 scrapy 
-
-pip install scrapy
+1. 使用 python3 安装 scrapy 命令为：pip install scrapy
 2. 安装 MongoDB 数据库并创建数据库名为"hexun"
 
 #### 使用说明
